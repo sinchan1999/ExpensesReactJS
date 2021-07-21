@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Submitting Cloud_screenshot",
+      "day": "21st Feb. 2021",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Filling up registration form",
+      "day": "22nd Feb. 2021",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Hangout with friends",
+      "day": "22nd July 2021.",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Swimming",
+      "day": "25th July, 2021 / 7:00 a.m",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
